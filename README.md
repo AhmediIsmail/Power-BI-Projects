@@ -19,3 +19,11 @@ To explore the insights, open the Power BI report and navigate through the diffe
 ## Conclusion
 
 This Power BI report provides actionable insights into various aspects of the coffee shop's sales, helping to improve decision-making, optimize operations, and drive growth.
+
+## Reach Out
+
+For any questions, feedback, or further information, feel free to contact us:
+
+- **LinkedIn**: [https://www.linkedin.com/in/ahmedlismail/]
+
+We're here to help you make the most of your data!
